@@ -7,7 +7,6 @@ var yy = 88
 //declared z as string it means cant assign a int value ! beacuse is STRING !!
 var z = "this is a string"
 
-
 func main() {
 
 	//short declaration operator
